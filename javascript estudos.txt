@@ -1,0 +1,87 @@
+5 + 2 = 7 adição
+5 -2 = 3 subtração
+5 * 2 = 10 multiplicação
+5 / 2 = 2.5 divisão
+5 % 2 = 1 divisão de inteiro
+5 ** = 25 potencia
+
+ordem de precedência
+() ** /
+> < >=
+!
+&&
+||
+* / %
++ -
+
+
+atribuição simples
+
+var a = 5 + 3 = 8
+var b = a % 5 = 3 
+var c = 5 * b ** 2 = 45
+var d = 10 - a / 2 = 6
+var e = 6 * 2 /d = 2
+var f = b % e + 4 / e 
+
+
+relacionais
+
+
+5 > 2 = true
+7 < 4 = false
+9 <= 7 = false
+5 == 5 = true
+4 != 4 = false
+5 == '5' = true
+
+
+! = não igual
+
+operador de identidade
+ ===
+
+5 === '5' = false
+5 === 5 = true
+
+operadores lógicos
+
+! = negação
+
+|| = conjunção 
+
+true || true = true
+true || false = true
+false || true = true
+false || false = false
+
+&& disjunção
+
+
+
+
+exemplos
+
+true && true = true
+true && false = false
+false && true = false
+false && false = false
+
+
+
+idade >= 15 && idade <= 17 // a idade está entre 15 e 17? 
+
+estado == 'rj' || estado == 'sp' // o estado é rj ou sp?
+
+salário > 1500 && sexo != 'm' // o salário é acima de 1500 e não é homem?
+
+
+ternário
+teste ? true : false
+
+média >= 7.0 ? "aprovado" : "reprovado"
+
+
+
+
+
